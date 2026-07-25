@@ -2,7 +2,7 @@
   <h1>imgnorm</h1>
   <a href="https://pypi.org/project/imgnorm/"><img src="https://img.shields.io/pypi/v/imgnorm.svg" alt="PyPI version"></a>
   <a href="https://pypi.org/project/imgnorm/"><img src="https://img.shields.io/badge/Python-3.8-3776AB?logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://github.com/zhenzi0322/imgnorm/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/imgnorm.svg" alt="License"></a>
+  <a href="https://github.com/zhenzi0322-package/imgnorm/blob/master/LICENSE"><img src="https://img.shields.io/pypi/l/imgnorm.svg" alt="License"></a>
           <a href="https://tool.long920.cn/imgnorm"><img src="https://app.readthedocs.org/projects/zhenzi0322-tool/badge/?version=latest" alt="Documentation Status"></a>
 </p>
 
